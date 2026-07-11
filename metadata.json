@@ -1,0 +1,6 @@
+{
+  "name": "Passion Compass",
+  "description": "An interactive, expert knowledge mapper that helps you explore and deepen your interests by generating structured, insightful knowledge maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
